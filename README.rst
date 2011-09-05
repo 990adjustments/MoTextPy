@@ -5,7 +5,7 @@ MoTextPy
 Usage
 =====
 
-This is a simple `Cinema 4D<http://www.maxon.net>`_ python script that is meant to be used on a
+This is a simple `Cinema 4D <http://www.maxon.net/>`_ python script that is meant to be used on a
 python tag. Just add a python tag to your MoText object and paste the script into the code field
 of the tag. You can then save the tag as a preset or save the MoText object with the tag as a default.
 
@@ -34,5 +34,5 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Peace!
 
--Erwin
+Erwin
 www.990adjustments.com
