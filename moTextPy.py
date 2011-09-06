@@ -1,13 +1,12 @@
 """
-moTextPy.pyp
 
-Author: Erwin Santacruz
-www.990adjustments.com
+moTextPy.py
+
+Author: Erwin Santacruz, www.990adjustments.com
 
 Written for CINEMA 4D R12
 
 Name-US: MoTextPy
-
 
 Description-US: This is a simple Cinema 4D python script that is meant to be used on a
 python tag. Just add a python tag to your MoText object and paste the
@@ -19,11 +18,16 @@ The script just links together a few of the Motext object's parameters.
 Specifically, the text field is linked to the MoText object name, the star cap to
 the end cap, the start steps to the end steps, and start radius to the end radius.
 
-Creation Date: 06.04.11
+Script tested on OS X 10.6.4 and Cinema 4D versions:
+CINEMA 4D R12.016
+CINEMA 4D R12.032
+
+Creation Date: 06/04/11
 
 """
 
 import c4d
+
 
 def main():
     obj = op.GetObject()
