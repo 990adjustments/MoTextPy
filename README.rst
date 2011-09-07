@@ -36,6 +36,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Thank you & Peace!
 
-Erwin  
-`www.990adjustments.com <http://www.990adjustments.com/>`_  
+::
+Erwin
+`www.990adjustments.com <http://www.990adjustments.com/>`_
 `Twitter <http://www.twitter.com/990adjustments/>`_
